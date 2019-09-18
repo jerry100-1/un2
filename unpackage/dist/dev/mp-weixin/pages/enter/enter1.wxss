@@ -1,0 +1,107 @@
+
+.content.data-v-0815075e{
+		padding: 0;
+		background: #F2F2F2;
+}
+.content>view.data-v-0815075e{
+		background: #fff;
+		padding:30rpx;
+		margin-bottom: 40rpx;
+}
+.border picker.data-v-0815075e{
+		width:500rpx;
+}
+.content>view>view.data-v-0815075e{
+		margin-bottom: 20rpx;
+		font-size: 26rpx;
+}
+.title.data-v-0815075e{
+		padding-left: 17rpx;
+		border-left:5rpx solid #EE3535;
+		font-size: 28rpx;
+		color:#333;
+}
+input.data-v-0815075e{
+		width:400rpx;
+		border-bottom:1px solid #eee;
+		display: inline-block;
+		vertical-align: middle;
+}
+.addImg.data-v-0815075e{
+		width:100rpx;
+		height:100rpx;
+		vertical-align: top;
+		margin-right: 10rpx;
+}
+.grey.data-v-0815075e{
+		color:#999;
+		vertical-align: bottom;
+		position: relative;
+		bottom: -32px;
+}
+.content text.data-v-0815075e{
+		margin-right: 10rpx;
+}
+picker view.data-v-0815075e{
+		overflow: hidden;
+		-o-text-overflow:ellipsis;
+		   text-overflow:ellipsis;
+		white-space: nowrap;
+}
+picker.data-v-0815075e{
+		vertical-align: middle;
+		display: inline-block;
+		width:160rpx;
+		padding-left: 10rpx;
+		margin-right: 10rpx;
+		border-radius: 20rpx;
+		height: 60rpx;
+		line-height:60rpx;
+		position: relative;
+		border:1px solid #eee;
+}
+.uni-icon.data-v-0815075e{
+		position: absolute;
+		top:15rpx;
+		right: 20rpx;
+}
+picker input.data-v-0815075e{
+		border:none;
+}
+.isFront.data-v-0815075e{
+		position: relative;
+}
+.isFront picker.data-v-0815075e{
+		width:380rpx;
+}
+.isFront .uni-icon.data-v-0815075e{
+		right:140rpx;
+}
+.isFront .position.data-v-0815075e{
+		margin-left: 40rpx;
+}
+button.data-v-0815075e{
+		width: 525rpx; 
+		height:72rpx;
+		line-height: 72rpx;
+		font-size: 30rpx;
+		text-align: center;
+		background: #EE3535;
+		color:#fff;
+		outline: none;
+		border:none;
+		margin-bottom: 20rpx;
+}
+uni-button.data-v-0815075e:after,uni-button.data-v-0815075e:before{
+		border:none;
+}
+.inline>view.data-v-0815075e{
+		display: inline-block;
+
+		margin-bottom: 20rpx;
+}
+.inline>view view.data-v-0815075e{
+		width:118rpx;
+		line-height: 60rpx;
+}
+

@@ -1,0 +1,40 @@
+import Vue from 'vue'
+import Vuex from 'vuex'
+
+
+Vue.use(Vuex)
+
+const store = new Vuex.Store({
+    state: {
+        /**
+         * 是否需要强制登录
+         */
+        forcedLogin: false,
+        hasLogin: false,
+		token:"",
+		shopId:"",
+		shopObj:{},
+        userName: ""
+    },
+    mutations: {
+        login(state, userName) {
+            state.userName = userName || '新用户';
+            state.hasLogin = true;
+        },
+        logout(state) {
+            state.userName = "";
+            state.hasLogin = false;
+        },
+		setShopId(state,index){
+			state.shopId=index
+		},
+		setToken(state,index){
+			state.token=index
+		},
+		setShopObj(state,obj){
+			state.shopObj=obj
+		}
+    }
+})
+
+export default store

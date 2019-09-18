@@ -1,0 +1,18 @@
+{
+  "navigationBarTitleText": "商品管理",
+  "bounce": "none",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "商品发布  ",
+        "float": "right",
+        "width": "auto",
+        "fontSize": "16"
+      }
+    ]
+  },
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "uni-popup": "/components/uni-popup/uni-popup"
+  }
+}

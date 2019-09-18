@@ -1,0 +1,144 @@
+
+page.data-v-736c0553{
+	background: #f8f8f8;
+}
+.wrapHead.data-v-736c0553{
+	width:100%;
+	height:80rpx;
+	background:#007AFF;
+}
+.content.data-v-736c0553{
+	padding: 0;
+	background: rgb(15, 174, 255);
+}
+.content.data-v-736c0553 {
+	position:relative;
+	background: #f2f2f2;
+	text-align: center;
+}
+.box.data-v-736c0553 {
+	width: 100%;
+	position: relative;
+	text-align: center;
+}
+#canvas.data-v-736c0553{
+	width: 494rpx;
+	height: 726rpx;
+	margin: 0 auto;
+	border:1px solid #eee;
+	position: absolute;
+	top:-99999999px;
+	left:-9999999999px;
+}
+.code.data-v-736c0553 {
+	width: 192rpx;
+	height: 192rpx;
+	position: absolute;
+	left: 248rpx;
+	margin: 0 auto;
+}
+.code1.data-v-736c0553,
+.code2.data-v-736c0553 {
+	width: 494rpx;
+	height: 726rpx;
+	margin: 0 auto;
+}
+.qrcode1.data-v-736c0553 {
+	top: 300rpx;
+}
+.qrcode2.data-v-736c0553 {
+	top: 430rpx;
+}
+.btns text.data-v-736c0553 {
+	display: block;
+	text-align: center;
+	width: 100%;
+	text-decoration: underline;
+}
+button.data-v-736c0553 {
+	width: 230rpx;
+	height: 80rpx;
+	text-align: center;
+	line-height: 80rpx;
+	background: transparent;
+	border: 1px solid #2D93FF;
+	border-radius: 20rpx;
+	color: #2D93FF;
+	margin-bottom: 210rpx;
+	margin-top: 68rpx;
+	font-size: 30rpx;
+}
+.content.data-v-736c0553 {
+	position:relative;
+	background: #f2f2f2;
+	text-align: center;
+}
+.box.data-v-736c0553 {
+	width: 100%;
+	position: relative;
+	text-align: center;
+}
+.box>view.data-v-736c0553{
+	position: absolute;
+	bottom: 70rpx;
+	color: #fff;
+	left: 224rpx;
+	font-size: 28rpx;
+}
+#canvas.data-v-736c0553{
+	width: 494rpx;
+	height: 726rpx;
+	margin: 0 auto;
+	border:1px solid #eee;
+	position: absolute;
+	top:-99999999px;
+	left:-9999999999px;
+}
+.code.data-v-736c0553 {
+	width: 192rpx;
+	height: 192rpx;
+	position: absolute;
+	left: 248rpx;
+	margin: 0 auto;
+}
+.copy.data-v-736c0553{
+	margin-bottom: 20rpx;
+}
+.code1.data-v-736c0553,.code2.data-v-736c0553 {
+	width: 494rpx;
+	height: 726rpx;
+	margin: 0 auto;
+}
+.qrcode1.data-v-736c0553 {
+	top: 400rpx;
+}
+.qrcode2.data-v-736c0553 {
+	top: 430rpx;
+}
+.btns text.data-v-736c0553 {
+	display: block;
+	text-align: center;
+	width: 100%;
+	text-decoration: underline;
+}
+button.data-v-736c0553 {
+	width: 210rpx;
+	height: 80rpx;
+	text-align: center;
+	line-height: 80rpx;
+	background: transparent;
+	border: 1px solid #2D93FF;
+	border-radius: 20rpx;
+	color: #2D93FF;
+	margin-bottom: 210rpx;
+	margin-top: 68rpx;
+	font-size: 30rpx;
+	margin-left: 20rpx;
+	vertical-align: text-top;
+	display: inline-block;
+}
+
+
+
+
+

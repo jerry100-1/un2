@@ -1,0 +1,187 @@
+
+.content.data-v-5db79c8a{
+	padding: 0;
+	background: #f2f2f2;
+}
+.banner image.data-v-5db79c8a{
+	width:100%;
+}
+.shopInfo view .isFront.data-v-5db79c8a{
+	height:46rpx;
+}
+.marginTop.data-v-5db79c8a{
+	margin-top: -52rpx;
+}
+.nav.data-v-5db79c8a{
+	background: #fff;
+	margin: 20rpx 0;
+	padding-left: 30rpx;
+	line-height: 90rpx;
+}
+.nav>view.data-v-5db79c8a{
+	font-size: 30rpx;
+	margin-right: 30rpx;
+	display: inline-block;
+}
+.fixWidth.data-v-5db79c8a{
+	width:180rpx;
+	display: inline-block;
+}
+.subcomit.data-v-5db79c8a{
+	display: inline-block;
+	width:114rpx;
+	line-height: 48rpx;
+	background: #EE3535;
+	color:#fff;
+	font-size: 22rpx;
+	padding: 0;
+	vertical-align: middle;
+	margin-left: 10rpx;
+	border-radius: 20rpx;
+}
+.nav view.data-v-5db79c8a{
+	border-bottom: 6rpx solid transparent;
+}
+.nav view.active.data-v-5db79c8a{
+	color:#2D93FF;
+	border-bottom-color: #2D93FF;
+}
+.search.data-v-5db79c8a{
+	padding: 0 15rpx;
+}
+.search>view.data-v-5db79c8a{
+	display: inline-block;
+	vertical-align: top;
+}
+.search picker.data-v-5db79c8a{
+	background: #fff;
+	border:1px solid #eee;
+	width:160rpx;
+	height: 60rpx;
+	margin-right: 20rpx;
+}
+.search input.data-v-5db79c8a{
+	width:380rpx;
+	height:60rpx;
+	line-height: 60rpx;
+	padding-left: 10rpx;
+	margin-right: 10rpx;
+	background: #fff;
+	font-size: 24rpx;
+	border:1px solid #eee;
+}
+.color.data-v-5db79c8a{
+	color:#EE3535;
+}
+.search text.data-v-5db79c8a{
+	display: inline-block;
+	width: 100rpx;
+	height: 60rpx;
+	line-height: 60rpx;
+	text-align: center;
+	background:#2D93FF;
+	color:#fff;
+	font-size: 24rpx;
+}
+.item_list.data-v-5db79c8a{
+	background: #fff;
+	margin-top: 25rpx;
+	padding-top: 24rpx;
+    border-top:1px solid #eee;
+	color:#333;
+	font-size: 24rpx;
+}
+.item_list>view.data-v-5db79c8a{
+	padding: 0 26rpx 0 42rpx;
+}
+.shopInfo.data-v-5db79c8a{
+	margin-top: 20rpx;
+	border-bottom:1px solid #eee;
+}
+.shopInfo>view.data-v-5db79c8a{
+	vertical-align: top;
+	display: inline-block;
+}
+.level.data-v-5db79c8a{
+	text-align: center;
+	line-height: 60rpx;
+}
+.level view.data-v-5db79c8a{
+	display: inline-block;
+}
+.shopInfo .logoImg.data-v-5db79c8a{
+	width:160rpx;
+	height:160rpx;
+	margin-right: 22rpx;
+}
+.shopInfo image.data-v-5db79c8a{
+	width: 160rpx;
+	height:160rpx;
+}
+.shopInfo>view>view.data-v-5db79c8a{
+	margin-bottom: 6rpx;
+}
+.shopInfo>view>view text.data-v-5db79c8a{
+	margin-right: 10rpx;
+}
+.edit.data-v-5db79c8a{
+	display: inline-block;
+	width:78rpx;
+	height:48rpx;
+	line-height: 48rpx;
+	text-align: center;
+	color:#fff;
+	background: #2D93FF;
+	border-radius: 50rpx;
+	margin-bottom: 20rpx;
+}
+.item.data-v-5db79c8a{
+	line-height: 88rpx;
+	border-bottom: 1px solid #eee;
+}
+.item .marginLeft.data-v-5db79c8a{
+	margin-right: 10rpx;
+	margin-left: 20rpx;
+}
+.search .level.data-v-5db79c8a{
+	width:100%;
+	font-size: 24rpx;
+}
+.buler.data-v-5db79c8a{
+	color:#007AFF;
+	margin-right: 20rpx;
+}
+.gear.data-v-5db79c8a{
+	color:#999;
+}
+.mode.data-v-5db79c8a{
+	width:614rpx;
+	
+	border-radius: 20rpx;
+	background: #fff;
+}
+.mode .title.data-v-5db79c8a{
+	font-size: 30rpx;
+	color:#333;
+	width: 100%;
+	text-align: center;
+	margin-top: 36rpx;
+	margin-bottom: 44rpx;
+	font-weight: 600;
+}
+.mode .box.data-v-5db79c8a{
+	padding: 0 30rpx;
+	line-height: 1.5;
+}
+.mode .foot.data-v-5db79c8a{
+	margin-top: 60rpx;
+	line-height: 94rpx;
+	background: #f4f4f4;
+	width: 100%;
+	text-align: center;
+	color:#333;
+	border-bottom-left-radius: 20rpx;
+	border-bottom-right-radius: 20rpx;
+	font-size: 36rpx;
+}
+

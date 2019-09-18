@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"lineModalText{ width:90%; margin:",[0,20]," auto; }\n.",[1],"titleHead{ font-weight:bold; font-size:",[0,32],"; }\n.",[1],"textCtn{ color:rgba(0,0,0,0.66); font-size:",[0,28],"; margin-top:",[0,20],"; }\n",],undefined,{path:"./pages/user/commonProblem.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/user/commonProblem.wxml') } }));

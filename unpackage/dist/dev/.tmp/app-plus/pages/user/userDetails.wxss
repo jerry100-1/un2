@@ -1,0 +1,17 @@
+.content.data-v-7d254e94 {
+  padding: 0;
+  background: #f2f2f2;
+}
+.list.data-v-7d254e94 {
+  background: #fff;
+  padding: 30rpx;
+  margin-bottom: 20rpx;
+  font-size: 26rpx;
+}
+.list view.data-v-7d254e94 {
+  margin-bottom: 10rpx;
+}
+.list .color.data-v-7d254e94 {
+  color: #ee3535;
+}
+

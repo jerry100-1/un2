@@ -1,0 +1,25 @@
+
+.content.data-v-5393e3dc{
+	background: #f2f2f2;
+	padding: 0;
+}
+.input-row.data-v-5393e3dc{
+	background: #fff;
+	padding: 0 30rpx;
+	border-bottom: 1px solid #eee;
+}
+input.data-v-5393e3dc{
+	width:400rpx;
+	padding: 20rpx 0;
+	vertical-align: middle;
+}
+button.data-v-5393e3dc{
+	width:574rpx;
+	height:76rpx;
+	line-height: 76rpx;
+	text-align: center;
+	background: #2D93FF;
+	border-radius: 50rpx;
+	margin: 120rpx auto;
+}
+

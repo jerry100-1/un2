@@ -1,0 +1,7 @@
+{
+  "bounce": "none",
+  "titleNView": false,
+  "usingComponents": {
+    "uni-icon": "/components/uni-icon/uni-icon"
+  }
+}

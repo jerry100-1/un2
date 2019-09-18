@@ -1,0 +1,206 @@
+{
+  "@platforms": [
+    "android",
+    "iPhone",
+    "iPad"
+  ],
+  "id": "__UNI__99075FA",
+  "name": "乐驿享商家版",
+  "version": {
+    "name": "1.2.4",
+    "code": 140
+  },
+  "description": "商家",
+  "launch_path": "__uniappview.html",
+  "developer": {
+    "name": "",
+    "email": "",
+    "url": ""
+  },
+  "permissions": {
+    "Share": {},
+    "Contacts": {},
+    "Push": {},
+    "Maps": {
+      "coordType": "gcj02"
+    },
+    "UniNView": {
+      "description": "UniNView原生渲染"
+    }
+  },
+  "plus": {
+    "useragent": {
+      "value": "uni-app appservice",
+      "concatenate": true
+    },
+    "splashscreen": {
+      "target": "id:1",
+      "autoclose": true,
+      "waiting": true,
+      "delay": 0
+    },
+    "popGesture": "close",
+    "launchwebview": {
+      "render": "always",
+      "id": "1",
+      "kernel": "WKWebview"
+    },
+    "statusbar": {
+      "immersed": "supportedDevice",
+      "style": "light",
+      "background": "#0faeff"
+    },
+    "usingComponents": true,
+    "distribute": {
+      "icons": {
+        "ios": {
+          "appstore": "static/app_icon/app_icon@1024x1024.png",
+          "iphone": {
+            "app@2x": "static/app_icon/app_icon@120x120.png",
+            "app@3x": "static/app_icon/app_icon@180x180.png",
+            "spotlight@2x": "static/app_icon/app_icon@80x80.png",
+            "spotlight@3x": "static/app_icon/app_icon@120x120.png",
+            "settings@2x": "static/app_icon/app_icon@58x58.png",
+            "settings@3x": "static/app_icon/app_icon@87x87.png",
+            "notification@2x": "static/app_icon/app_icon@40x40.png",
+            "notification@3x": "static/app_icon/app_icon@60x60.png"
+          },
+          "ipad": {
+            "app": "static/app_icon/app_icon@76x76.png",
+            "app@2x": "static/app_icon/app_icon@152x152.png",
+            "proapp@2x": "static/app_icon/app_icon@167x167.png",
+            "spotlight": "static/app_icon/app_icon@40x40.png",
+            "spotlight@2x": "static/app_icon/app_icon@80x80.png",
+            "settings": "static/app_icon/app_icon@29x29.png",
+            "settings@2x": "static/app_icon/app_icon@58x58.png",
+            "notification": "static/app_icon/app_icon@20x20.png",
+            "notification@2x": "static/app_icon/app_icon@40x40.png"
+          }
+        },
+        "android": {
+          "xxxhdpi": "static/app_icon/app_icon@512x512.png",
+          "mdpi": "static/app_icon/app_icon@48x48.png",
+          "ldpi": "static/app_icon/app_icon@48x48.png",
+          "hdpi": "static/app_icon/app_icon@192x192.png",
+          "xhdpi": "static/app_icon/app_icon@256x256.png",
+          "xxhdpi": "static/app_icon/app_icon@384x384.png"
+        }
+      },
+      "splashscreen": {
+        "ios": {
+          "iphone": {
+            "portrait-896h@3x": "static/start-up/1242x2688.png",
+            "landscape-896h@3x": "static/start-up/2688x1242.png",
+            "portrait-896h@2x": "static/start-up/828x1792.png",
+            "landscape-896h@2x": "static/start-up/1792x828.png",
+            "iphonex": "static/start-up/1125x2436.png",
+            "iphonexl": "static/start-up/2436x1125.png",
+            "retina55": "static/start-up/1242x2208.png",
+            "retina55l": "static/start-up/2208x1242.png",
+            "retina47": "static/start-up/750x1334.png",
+            "retina47l": "static/start-up/1334x750.png",
+            "retina40": "static/start-up/640x1136.png",
+            "retina40l": "static/start-up/1136x640.png",
+            "retina35": "static/start-up/640x960.png"
+          },
+          "ipad": {
+            "portrait-1366h@2x": "static/start-up/2018x2732.png",
+            "landscape-1366h@2x": "static/start-up/2732x2018.png",
+            "portrait-1194h@2": "static/start-up/1668x2388.png",
+            "landscape-1194h@2x": "static/start-up/2388x1668.png",
+            "portrait-1112h@2x": "static/start-up/1668x2224.png",
+            "landscape-1112h@2x": "static/start-up/2224x1668.png",
+            "portrait-retina7": "static/start-up/1536x2048.png",
+            "landscape-retina7": "static/start-up/2048x1536.png",
+            "portrait7": "static/start-up/768x1204.png",
+            "landscape7": "static/start-up/1204x768.png"
+          }
+        },
+        "android": {
+          "hdpi": "static/app_icon/app_icon@20x20.png",
+          "xhdpi": "static/start-up/Android/720x1242.png",
+          "xxhdpi": "static/start-up/Android/1080x1882.png"
+        }
+      },
+      "google": {
+        "permissions": [
+          "<uses-feature android:name=\"android.hardware.camera\"/>",
+          "<uses-feature android:name=\"android.hardware.camera.autofocus\"/>",
+          "<uses-permission android:name=\"android.permission.ACCESS_COARSE_LOCATION\"/>",
+          "<uses-permission android:name=\"android.permission.ACCESS_FINE_LOCATION\"/>",
+          "<uses-permission android:name=\"android.permission.ACCESS_NETWORK_STATE\"/>",
+          "<uses-permission android:name=\"android.permission.ACCESS_WIFI_STATE\"/>",
+          "<uses-permission android:name=\"android.permission.CALL_PHONE\"/>",
+          "<uses-permission android:name=\"android.permission.CALL_PRIVILEGED\"/>",
+          "<uses-permission android:name=\"android.permission.CAMERA\"/>",
+          "<uses-permission android:name=\"android.permission.CHANGE_NETWORK_STATE\"/>",
+          "<uses-permission android:name=\"android.permission.CHANGE_WIFI_STATE\"/>",
+          "<uses-permission android:name=\"android.permission.FLASHLIGHT\"/>",
+          "<uses-permission android:name=\"android.permission.GET_ACCOUNTS\"/>",
+          "<uses-permission android:name=\"android.permission.INTERNET\"/>",
+          "<uses-permission android:name=\"android.permission.MODIFY_AUDIO_SETTINGS\"/>",
+          "<uses-permission android:name=\"android.permission.MOUNT_UNMOUNT_FILESYSTEMS\"/>",
+          "<uses-permission android:name=\"android.permission.READ_CONTACTS\"/>",
+          "<uses-permission android:name=\"android.permission.READ_LOGS\"/>",
+          "<uses-permission android:name=\"android.permission.READ_PHONE_STATE\"/>",
+          "<uses-permission android:name=\"android.permission.RECORD_AUDIO\"/>",
+          "<uses-permission android:name=\"android.permission.WRITE_CONTACTS\"/>",
+          "<uses-permission android:name=\"android.permission.WRITE_EXTERNAL_STORAGE\"/>",
+          "<uses-permission android:name=\"android.permission.WRITE_SETTINGS\"/>"
+        ],
+        "targetSdkVersion": 26
+      },
+      "apple": {
+        "urltypes": [
+          {
+            "urlidentifier": "io.dcloud.UNI99075FA",
+            "urlschemes": [
+              "hnlxyjShopAPP"
+            ]
+          }
+        ],
+        "privacyDescription": {
+          "NSPhotoLibraryUsageDescription": "发布商品时从相册中选择图片作为商品图片",
+          "NSPhotoLibraryAddUsageDescription": "保存邀请用户的邀请码",
+          "NSCameraUsageDescription": "上传商品图片或资质图片至平台"
+        }
+      },
+      "plugins": {
+        "payment": {},
+        "push": {},
+        "share": {
+          "sina": {
+            "appkey": "2822083042",
+            "appsecret": "8c291db46333b0402fa35069912a758a",
+            "redirect_uri": "http://www.hnlxyj.com"
+          },
+          "qq": {
+            "appid": "101584806"
+          },
+          "weixin": {
+            "appid": "wx866e0981177e63a6",
+            "appsecret": "01e54befd234a0b2a3eb68acb44cc3f0"
+          }
+        },
+        "maps": {
+          "amap": {
+            "appkey_ios": "691cb34011c1134ba820e7a1c96c294e",
+            "appkey_android": "8ff81bc685fdeae7aa290332e0762e60"
+          }
+        },
+        "audio": {
+          "mp3": {
+            "description": "Android平台录音支持MP3格式文件"
+          }
+        }
+      }
+    },
+    "allowsInlineMediaPlayback": true,
+    "uni-app": {
+      "compilerVersion": "2.2.2",
+      "control": "v8",
+      "nvueCompiler": "weex",
+      "renderer": "auto"
+    }
+  }
+}

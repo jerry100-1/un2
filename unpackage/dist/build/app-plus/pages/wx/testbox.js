@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"wrapThree{ display:-webkit-box; -webkit-box-orient:horizontal; width:100%; height:",[0,200],"; background:yellow; -webkit-box-pack: end ; -webkit-box-align:baseline; }\n.",[1],"box{ width:",[0,220],"; height:",[0,100],"; }\n",],undefined,{path:"./pages/wx/testbox.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/wx/testbox.wxml') } }));

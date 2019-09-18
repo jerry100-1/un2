@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "取现密码",
+  "usingComponents": {
+    "m-input": "/components/m-input"
+  }
+}

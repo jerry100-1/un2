@@ -1,0 +1,20 @@
+{
+  "navigationBarTitleText": "渠道管理",
+  "bounce": "none",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "商户入驻  ",
+        "float": "right",
+        "width": "auto",
+        "fontSize": "16"
+      }
+    ]
+  },
+  "usingComponents": {
+    "w-picker": "/components/w-picker/w-picker",
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "uni-icon": "/components/uni-icon/uni-icon"
+  }
+}

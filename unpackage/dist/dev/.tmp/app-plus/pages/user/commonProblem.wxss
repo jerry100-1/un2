@@ -1,0 +1,15 @@
+
+.lineModalText{
+	width:90%;
+	margin:20rpx auto;
+}
+.titleHead{
+	font-weight:bold;
+	font-size:32rpx;
+}
+.textCtn{
+	color:rgba(0,0,0,0.66);
+	font-size:28rpx;
+	margin-top:20rpx;
+}
+

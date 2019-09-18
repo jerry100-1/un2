@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "注册奖励总金额",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

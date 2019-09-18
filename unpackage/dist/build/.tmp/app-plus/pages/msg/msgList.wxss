@@ -1,0 +1,111 @@
+
+.content.data-v-22ba91b0{
+		padding: 0;
+		background: #f2f2f2;
+}
+.msgType.data-v-22ba91b0{
+		position: fixed;
+		width:100%;
+		height:196rpx;
+		overflow: hidden;
+		margin-bottom: 20rpx;
+		z-index: 2;
+}
+.msgType .active.data-v-22ba91b0{
+		color:#EE3535;
+}
+.whiteBg.data-v-22ba91b0{
+		height:76rpx;
+		width:100%;
+		background: #fff;
+}
+.msgType .list.data-v-22ba91b0{
+		 background: rgb(15, 174, 255);
+		 height:120rpx;
+}
+.msgType .list>view.data-v-22ba91b0{
+		width:687rpx;
+		border-radius: 10rpx;
+		background: #fff;
+		margin: 0 auto;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		padding-top: 25rpx;
+}
+.msgType .list .item_list.data-v-22ba91b0{
+		-webkit-box-flex:1;
+		-webkit-flex:1;
+		    -ms-flex:1;
+		        flex:1;
+		text-align: center;
+}
+.msg_item>view.data-v-22ba91b0{
+		width: 500rpx;
+}
+.msgType .list image.data-v-22ba91b0{
+		width:82rpx;
+		height:82rpx;
+		display: block;
+		margin: 0 auto;
+		border-radius: 50%;
+}
+.box.data-v-22ba91b0{
+		margin-top: 200rpx;
+}
+.box .title.data-v-22ba91b0{
+		background: transparent;
+		color:#333;
+		line-height: 80rpx;
+		text-align: center;
+}
+.box .item_list.data-v-22ba91b0{
+		background: #fff;
+		margin-bottom: 20rpx;
+}
+.item_con.data-v-22ba91b0{
+		padding: 30rpx;
+}
+.box .item_list>view>view.data-v-22ba91b0{
+		display: inline-block;
+		vertical-align: top;
+}
+.box .item_list image.data-v-22ba91b0{
+		width:14rpx;
+		height:26rpx;
+		margin-left: 10rpx;
+		display: inline-block;
+}
+.box .item_list .proImg.data-v-22ba91b0{
+		width:126rpx;
+		height:126rpx;
+		margin-right: 28rpx;
+		border:1px solid #eee;
+		z-index: 1;
+}
+.msgText.data-v-22ba91b0{
+		font-size: 34rpx;
+		color:#333;
+		font-weight: 600;
+		margin-left: -16rpx;
+}
+.footer.data-v-22ba91b0{
+		height: 62rpx;
+		line-height: 62rpx;
+		border-top:1px solid #eee;
+		text-align: center;
+}
+.proName.data-v-22ba91b0{
+		font-size:32rpx;
+		color:#333;
+		display:-webkit-box;
+		-webkit-line-clamp:2;
+		-webkit-box-orient:vertical;
+		overflow:hidden;
+		-o-text-overflow:ellipsis;
+		   text-overflow:ellipsis;
+		height:80rpx;
+        width:520rpx;
+}
+

@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"content.",[1],"data-v-7d254e94 { padding: 0; background: #f2f2f2; }\n.",[1],"list.",[1],"data-v-7d254e94 { background: #fff; padding: ",[0,30],"; margin-bottom: ",[0,20],"; font-size: ",[0,26],"; }\n.",[1],"list wx-view.",[1],"data-v-7d254e94 { margin-bottom: ",[0,10],"; }\n.",[1],"list .",[1],"color.",[1],"data-v-7d254e94 { color: #ee3535; }\n",],undefined,{path:"./pages/user/userDetails.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/user/userDetails.wxml') } }));

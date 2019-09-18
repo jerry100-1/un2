@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "下级渠道关联注册用户总数",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

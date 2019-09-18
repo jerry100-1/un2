@@ -1,0 +1,40 @@
+
+.content.data-v-12faf804{
+	padding: 0;
+	background: #f2f2f2;
+}
+.content view.data-v-12faf804{
+	line-height: 76rpx;
+	background: #fff;
+	padding: 0 30rpx;
+	width:100%;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	border-bottom: 1px solid #eee;
+}
+image.data-v-12faf804{
+	width: 14rpx;
+	height: 26rpx;
+	margin-top: 24rpx;
+	margin-left: 20rpx;
+}
+.top.data-v-12faf804{
+	margin-top: 40rpx;
+}
+.content .btn.data-v-12faf804{
+	margin-top: 40rpx;
+	background: transparent;
+}
+.content button.data-v-12faf804{
+	width:574rpx;
+	height:75rpx;
+	line-height: 75rpx;
+	background:rgba(45,147,255,1);
+	border-radius:30rpx;
+	color:#fff;
+}
+.r.data-v-12faf804{
+	font-size: 24rpx;
+	color:#999;
+}
+

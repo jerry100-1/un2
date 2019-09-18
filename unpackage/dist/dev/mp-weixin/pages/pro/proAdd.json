@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "商品发布",
+  "usingComponents": {
+    "uni-icon": "/components/uni-icon/uni-icon"
+  }
+}

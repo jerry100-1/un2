@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "分享佣金发放总金额",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "用户邀请",
+  "bounce": "none",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "邀请记录  ",
+        "float": "right",
+        "width": "auto",
+        "fontSize": "16"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

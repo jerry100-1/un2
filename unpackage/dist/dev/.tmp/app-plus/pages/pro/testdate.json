@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "测试日期",
+  "usingComponents": {
+    "mx-date-picker": "/components/mx-datepicker/mx-datepicker"
+  }
+}

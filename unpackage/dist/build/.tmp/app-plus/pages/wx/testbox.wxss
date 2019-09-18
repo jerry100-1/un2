@@ -1,0 +1,16 @@
+
+.wrapThree{
+		display:-webkit-box;
+		-webkit-box-orient:horizontal;
+		width:100%;
+		height:200rpx;
+		background:yellow;
+		-webkit-box-pack: end ;
+		-webkit-box-align:baseline;
+}
+.box{
+			width:220rpx;
+			height:100rpx;
+/* 			-webkit-box-flex:1; */
+}
+

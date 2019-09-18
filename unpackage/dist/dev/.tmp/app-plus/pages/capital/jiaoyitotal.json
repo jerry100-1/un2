@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "交易手续费补贴总金额",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

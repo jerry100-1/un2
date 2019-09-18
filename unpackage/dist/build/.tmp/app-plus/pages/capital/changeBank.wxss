@@ -1,0 +1,112 @@
+
+.content.data-v-a5883004{
+		background: #f2f2f2;
+		padding: 0;
+}
+.content>.top.data-v-a5883004{
+		padding-top: 92rpx;
+		text-align: center;
+		height:242rpx;
+		-webkit-box-sizing: border-box;
+		        box-sizing: border-box;
+		font-size: 24rpx;
+		color:#999;
+}
+.top .title.data-v-a5883004{
+		font-size: 36rpx;
+		color:#333;
+}
+.list.data-v-a5883004{
+		background: #fff;
+		padding: 30rpx;
+}
+.list>view.data-v-a5883004{
+		line-height:69rpx
+}
+.list input.data-v-a5883004{
+		font-size: 24rpx;
+		width:540rpx;
+		vertical-align: middle;
+		margin-left: 10rpx;
+		display: inline-block;
+		border-bottom: 1px solid #eee;
+}
+.left.data-v-a5883004{
+		display: inline-block;
+		width:130rpx;
+}
+.code input.data-v-a5883004{
+		display: inline-block;
+		width:360rpx;
+		border:none;
+}
+.getCode.data-v-a5883004{
+		border-left: 1px solid #eee;
+        display: inline-block;
+		padding-left:10rpx;
+		width:172rpx;
+		font-size: 24rpx;
+		text-align: center;
+}
+button.data-v-a5883004{
+		width:666rpx;
+		height:72rpx;
+		line-height: 72rpx;
+		text-align: center;
+		background: #EE3535;
+		color:#fff;
+		margin-top: 80rpx;
+		font-size: 30rpx;
+		border-radius: 20rpx;
+}
+button.data-v-a5883004:after{
+		border:none;
+}
+.btns text.data-v-a5883004{
+		margin-right: 30rpx;
+		color:#2D93FF;
+		font-size: 24rpx;
+		margin-top: 36rpx;
+		text-decoration:underline;
+		margin-bottom: 50rpx;
+}
+.info.data-v-a5883004{
+		padding: 0 30rpx;
+		line-height: 1.5;
+		font-size: 24rpx;
+}
+.mode.data-v-a5883004{
+		width:612rpx;
+		height:666rpx;
+		border-radius: 30rpx;
+		background: #fff;
+		overflow: hidden;
+		-webkit-box-sizing: border-box;
+		        box-sizing: border-box;
+		padding-top: 30rpx;
+		text-align: center;
+}
+.box>view.data-v-a5883004{
+		padding: 0 30rpx;
+		border-bottom: 1px solid #eee;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		line-height: 98rpx;
+}
+.box>view text.data-v-a5883004{
+		-webkit-box-flex: 1;
+		-webkit-flex: 1;
+		    -ms-flex: 1;
+		        flex: 1;
+		text-align: center;
+		font-size: 30rpx;
+}
+.footer.data-v-a5883004{
+		background: #f4f4f4;
+		line-height: 94rpx;
+		color:#333;
+		font-size: 36rpx;
+}
+

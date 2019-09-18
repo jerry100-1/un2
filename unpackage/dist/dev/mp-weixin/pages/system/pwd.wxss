@@ -1,0 +1,41 @@
+
+.content.data-v-80527804{
+	background: #f2f2f2;
+	padding: 0;
+}
+.input-row.data-v-80527804{
+	background: #fff;
+	padding: 0 30rpx;
+	border-bottom: 1px solid #eee;
+}
+button.data-v-80527804{
+	width:574rpx;
+	height:76rpx;
+	line-height: 76rpx;
+	text-align: center;
+	background: #2D93FF;
+	border-radius: 50rpx;
+	margin: 120rpx auto;
+}
+.border input.data-v-80527804{
+	width:400rpx;
+}
+input.data-v-80527804{
+	width:320rpx;
+	padding: 20rpx 0;
+	vertical-align: middle;
+}
+.getCode.data-v-80527804{
+	line-height: 80rpx;
+	border-left: 1px solid #eee;
+	height: 80rpx;
+	margin-top: 10rpx;
+	padding-left:10rpx;
+	width:172rpx;
+	text-align: center;
+}
+.phone.data-v-80527804{
+	padding-top: 20rpx;
+	line-height: 30px;
+}
+
